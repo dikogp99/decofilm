@@ -3,10 +3,14 @@
 //copy right by,@deco menampilkan playlist >>> UPDATE
 //========================================================================
 
-#EXTINF:-1  group-title="Film" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgzNmIxNTgtOGU5OC00NGIwLWE5MzMtYmY5ODJmMTNmNGQwXkEyXkFqcGdeQXVyMTMwMDU1MDE5._V1_FMjpg_UX1000_.jpg",Nenek Bongkok Tiga S1.E10
-#https://www62.uptostream.com/stream/2qugp9bd38/_m_main_0.mpd
-
-#EXTINF:-1  group-title="Film" tvg-logo="https://mmc.tirto.id/image/2022/11/14/film-keramat-2-caruban-larang_ratio-16x9.jpg",Keramat 2 : Caruban Larang (2022)
-#https://www.googleapis.com/drive/v3/files/1idYpJcuYXtK88DuzdVabgGJYzDbNPrwz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0x/6z/n230331ad1k3qmw4vb0yub2kdhok6z0x-1-111210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1684230665&gen=playurlv2&os=akam&oi=3053573200&trid=893978872a7c48d185ff8d26f035d30ci&mid=0&platform=html5&upsig=d527f56943c88fa1693051deb33e3170&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684230665~hmac=74907b9207a25fa1d96bea0292a579c7d5afa29ff59f4f845126a50c1dca162f&bvc=vod&nettype=0&orderid=0,2&logo=00000000
-
+#EXTINF:-1  group-title="Film" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgzNmIxNTgtOGU5OC00NGIwLWE5MzMtYmY5ODJmMTNmNGQwXkEyXkFqcGdeQXVyMTMwMDU1MDE5._V1_FMjpg_UX1000_.jpg",Nenek Bongkok Tiga S1.E2
+#https://www189.ff-01.com/token=4hshoGsNcKW1k_m5JYf6QQ/1680532991/180.244.0.0/214/e/bd/f506d49908afb2454db7eddf82faabde-1080p.mp4
+      
+#EXTINF:-1 group-title="Film" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgzNmIxNTgtOGU5OC00NGIwLWE5MzMtYmY5ODJmMTNmNGQwXkEyXkFqcGdeQXVyMTMwMDU1MDE5._V1_FMjpg_UX1000_.jpg",Nenek Bongkok Tiga S1.E3
+#https://www51.uptostream.com/stream/2qtw8x160e/_m_main_0.mpd
+      
+#EXTINF:-1  group-title="Film" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgzNmIxNTgtOGU5OC00NGIwLWE5MzMtYmY5ODJmMTNmNGQwXkEyXkFqcGdeQXVyMTMwMDU1MDE5._V1_FMjpg_UX1000_.jpg",Nenek Bongkok Tiga S1.E4
+#https://www988.ff-02.com/token=8SVyoO7OXJfrIj3wchJ7Hg/1680533242/180.244.0.0/20/f/63/ad9f558a61f3dcb2c92c419268a5563f-1080p.mp4
+      
+#EXTINF:-1  group-title="Film" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgzNmIxNTgtOGU5OC00NGIwLWE5MzMtYmY5ODJmMTNmNGQwXkEyXkFqcGdeQXVyMTMwMDU1MDE5._V1_FMjpg_UX1000_.jpg",Nenek Bongkok Tiga S1.E5
+#https://www817.ff-02.com/token=n4akco-CpH6oHf39X6wwYA/1680533356/180.244.0.0/54/0/7e/71a85f519d95f762a333306b276667e0-1080p.mp4
