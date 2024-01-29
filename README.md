@@ -1,3 +1,30 @@
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/g2LLfPFJ/cek-toko-sebelah.jpg" group-title="HOROR",Cek Toko Sebelah 2 (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/ZrpTMRn2oRcd6F6v47Xr78kVqQ5uTvKW4JkyM8QTS134tcMnfDvn-ocGqxuc47Thxbq4ZeHhATD8NhMa4qe_fA/GeYigLyZLeg65TBz_JrVsNNv11BIHq3Y9IYt-xT4hHs/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/XJjJNRh9/mumun.jpg" group-title="HOROR",Mumun (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/GyOLwQDHxQP0su0JTFeFsv0431_WRpZDtFSJD8rvA0-L7o2xtQSmX6dfFpsoYOPoOTqwJGMuIQnJlHQMmu6bhQ/ENeNqOSV-HpxmjZ6IID4pBfw9AR-t35yiw1d5vllUA4/video.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/1X65vyNh/mendarat-darurat.jpg" group-title="HOROR",Mendarat Darurat (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/kGFDAdEzA9diWusdX_SyMq13pLkID6E8IEpsCmvyhnSjhWDE6ZIftA7WC4k6ElTjpB08VdqH9sspVcg8Hv_wbw/05Q0TKUb8R1BrXsQTdspI5jjIqa1JYI_tHmATsFcfQM/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/9MZvS01p/jaelangkung-sandekala.jpg" group-title="HOROR",Jailangkung - Sandekala (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/vEk0wtiPJ_suNISQkO9drxYZ3PhIBgsN5yOWJnS8__mNuADALYc_HdOzxRsZvKiVYcejMfj2L0Hnse8R5_oaIw/0Y9ewsAkRTm5YVLZjpbck6nAvxDo9ipyg2q8vrZJGDU/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/jdSRW6MY/mencuri-raden-saleh.jpg" group-title="HOROR",Mencuri Raden Saleh (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/ARkaKDSkLk2LIce5t9a16qgoSIFOlY-MMC9CvmQ0jFSS2Wixk3v-e-xwO_K_yKJ3CAjwPnx5ysKek2Ik1MRtwA/2FoZoCf5cnOrv_0LHo3jb9DLn-To_Ly-t-s-J0egOjk/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/0Nq3SP9K/jagat-arwah.jpg" group-title="HOROR",Jagat Arwah (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/NnrjvencblXo2l7UFY-OtoEStG3fstFh_WOZiUwysJl2XigtvIQArs-sjoANVlzbDWx0FobfMnhLLWIIl6ad8g/n1f-2jhQNRJQkB8LEo_uDDH0F2okf1AMVsLaFNZW1rA/1080.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNaLkaWYN5eeNwnxHnhGgQPr2aT.jpg" group-title="VOD MUL-SUBT 2022", 9 Balas (2022)
 http://867754785116320579.of1207.xyz:80/movie/ja412869/yPqt9STQShr/320579.mkv
 
