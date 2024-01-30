@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/01/nNMoJMDCeF4Q5wpWvKuh5b8K2sX-300x450.jpg" group-title="update",ferrari
+https://previews.dropbox.com/p/hls_playlist/ACLp0wmgWTccl4tSykcJl2PhOjCbgwW6EaLgg2ueJa4z0OvSYZvdIH4BKLUAz5dVDPdgSI5b6CnnqGXCQ7zFOFA0SBcJKRJZrsHF8op44L3LU0wkdiUhu5YgfaM3Gexm17XZSHdAwkcqVG3Q3ASaqFJDbbP3rCfPKnNmGMi1ocdSek0vj1J1Jvik0wNoqyxZzu37l9fbkCCo-QMZz1OX9UZ1KYvo4KHSUfTELf6YkTyBDXw022MOG9r2lK85ztRw1FNzHLt-UEONM0ljfqtIwcVCzl4w3LpYD2JfRKqIqaNd_k3gPY4r2jnare698Y2qhbKXGonxmsagrUsGb88B4wwvdOadcCxTS_lsyxLqj87vDZVXAsNG3Abzpyrtx2I-ytnvMPq2e4POlPAw_NiY0fRQ/p.m3u8?hw_acceleration=False&size=1280x538&type=video
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/g2LLfPFJ/cek-toko-sebelah.jpg" group-title="HOROR",Cek Toko Sebelah 2 (2022)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.77/ZrpTMRn2oRcd6F6v47Xr78kVqQ5uTvKW4JkyM8QTS134tcMnfDvn-ocGqxuc47Thxbq4ZeHhATD8NhMa4qe_fA/GeYigLyZLeg65TBz_JrVsNNv11BIHq3Y9IYt-xT4hHs/1080.m3u8
